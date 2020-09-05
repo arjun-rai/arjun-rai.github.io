@@ -25,5 +25,54 @@ body {background-color: powderblue;}
 <div class="miniclip-game-embed" data-game-name="bloxorz" data-theme="5" data-width="1024" data-height="768" data-language="en"><a href="https://www.miniclip.com/games/bloxorz/">Play Bloxorz</a></div>
 <p style="text-align:center;">
 </p>
+<div>
+	<div id="emulator">
+		<p>To play this game, please, download the latest Flash player!</p>
+		<br>
+		<a href="http://www.adobe.com/go/getflashplayer">
+			<img src="//www.adobe.com/images/shared/download_buttons/get_adobe_flash_player.png" alt="Get Adobe Flash player"/>
+		</a>
+	</div>
+</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+
+<script type="text/javascript">
+
+	var resizeOwnEmulator = function(width, height)
+	{
+		var emulator = $('#emulator');
+		emulator.css('width', width);
+		emulator.css('height', height);
+	}
+
+	$(function()
+	{
+		function embed()
+		{
+			var emulator = $('#emulator');
+			if(emulator)
+			{
+				var flashvars =
+				{
+					system : 'gba',
+					url : '/roms/Legend of Zelda, The - Links Awakening  (SGB Enhanced)'
+				};
+				var params = {};
+				var attributes = {};
+
+				params.allowscriptaccess = 'sameDomain';
+				params.allowFullScreen = 'true';
+				params.allowFullScreenInteractive = 'true';
+
+				swfobject.embedSWF('flash/Nesbox.swf', 'emulator', '640', '480', '11.2.0', 'flash/expressInstall.swf', flashvars, params, attributes);
+			}
+		}
+
+		embed();
+	});
+
+</script>
 </body>
 </html>
