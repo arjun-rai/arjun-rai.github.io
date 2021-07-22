@@ -1,0 +1,37 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 636px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Chopsic-K6Dp;
+  margin: 9px 95px 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 570px;
+  height: 428px;
+  margin: 69px auto 52px;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 500px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 405px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 255px;
+  }
+}@font-face {
+  font-family: 'Chopsic-K6Dp';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Chopsic-K6Dp.ttf);
+}

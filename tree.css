@@ -1,0 +1,14 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: FFFFORWA;
+  font-size: 1.125rem;
+  margin: 60px auto;
+}@font-face {
+  font-family: 'FFFFORWA';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/FFFFORWA.TTF);
+}

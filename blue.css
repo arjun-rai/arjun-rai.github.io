@@ -1,0 +1,42 @@
+.u-section-1 {
+  background-image: url("images/141279.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 791px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: CyberwayRiders-lg97d;
+  margin: 257px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 652px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 499px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 374px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 235px;
+  }
+}@font-face {
+  font-family: 'CyberwayRiders-lg97d';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/CyberwayRiders-lg97d.ttf);
+}

@@ -1,0 +1,25 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 656px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Autour One";
+  margin: 35px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 500px;
+  height: 500px;
+  margin: 23px auto 46px;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 496px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 340px;
+  }
+}

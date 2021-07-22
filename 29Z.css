@@ -1,0 +1,64 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 513px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Anaheim;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: Aldrich;
+  margin: 3px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 570px;
+  height: 377px;
+  margin: 0 0 0 auto;
+}
+
+.u-section-1 .u-image-2 {
+  width: 570px;
+  height: 377px;
+  margin: -377px auto 42px -11px;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 474px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 358px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 540px;
+    height: 358px;
+    margin-top: -357px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 209px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 225px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 340px;
+    height: 225px;
+    margin-top: -225px;
+  }
+}

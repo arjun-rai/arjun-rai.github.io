@@ -1,0 +1,71 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Galactico-Basic;
+  margin: 95px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: Galactico-Basic;
+  margin: 53px auto 0 467px;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: Aclonica;
+  margin: -144px 385px 60px 570px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-2 {
+    margin-left: 385px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 285px;
+    margin-left: 470px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    margin-left: 295px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 175px;
+    margin-left: 360px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-2 {
+    margin-left: 221px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 85px;
+    margin-left: 270px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-2 {
+    margin-left: 139px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+    margin-left: 155px;
+  }
+}@font-face {
+  font-family: 'Galactico-Basic';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Galactico-Basic.otf);
+}

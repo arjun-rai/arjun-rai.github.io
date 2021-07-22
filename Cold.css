@@ -1,0 +1,42 @@
+.u-section-1 {
+  background-image: url("images/Mountain_Glacier_Missing.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 824px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: SEVESBRG;
+  margin: 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 679px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 520px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 390px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 246px;
+  }
+}@font-face {
+  font-family: 'SEVESBRG';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/SEVESBRG.TTF);
+}

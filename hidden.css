@@ -1,0 +1,13 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Begokv15_2015___free;
+  margin: 60px auto;
+}@font-face {
+  font-family: 'Begokv15_2015___free';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Begokv15_2015___free.ttf);
+}
