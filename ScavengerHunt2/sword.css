@@ -1,0 +1,391 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 893px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 276px;
+  height: 423px;
+  margin: 16px auto 0 65px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 233px;
+  height: 406px;
+  margin: -579px auto 0 85px;
+}
+
+.u-section-1 .u-image-3 {
+  width: 276px;
+  height: 423px;
+  margin: -250px auto 0 209px;
+}
+
+.u-section-1 .u-image-4 {
+  width: 233px;
+  height: 406px;
+  margin: -579px auto 0 229px;
+}
+
+.u-section-1 .u-image-5 {
+  width: 276px;
+  height: 423px;
+  margin: -250px auto 0 359px;
+}
+
+.u-section-1 .u-image-6 {
+  width: 233px;
+  height: 406px;
+  margin: -579px auto 0 379px;
+}
+
+.u-section-1 .u-image-7 {
+  width: 276px;
+  height: 423px;
+  margin: -250px auto 0 514px;
+}
+
+.u-section-1 .u-image-8 {
+  width: 233px;
+  height: 406px;
+  margin: -579px auto 0 534px;
+}
+
+.u-section-1 .u-image-9 {
+  width: 276px;
+  height: 423px;
+  margin: -250px auto 0 660px;
+}
+
+.u-section-1 .u-image-10 {
+  width: 233px;
+  height: 406px;
+  margin: -579px auto 0 680px;
+}
+
+.u-section-1 .u-image-11 {
+  width: 276px;
+  height: 423px;
+  margin: -250px auto 0 799px;
+}
+
+.u-section-1 .u-image-12 {
+  width: 233px;
+  height: 406px;
+  margin: -579px auto 0 819px;
+}
+
+.u-section-1 .u-image-13 {
+  width: 202px;
+  height: 391px;
+  margin: -539px auto 0 243px;
+}
+
+.u-section-1 .u-image-14 {
+  width: 202px;
+  height: 391px;
+  margin: -438px auto 0 97px;
+}
+
+.u-section-1 .u-image-15 {
+  width: 202px;
+  height: 391px;
+  margin: -422px 391px 0 auto;
+}
+
+.u-section-1 .u-image-16 {
+  width: 202px;
+  height: 391px;
+  margin: -243px 244px 0 auto;
+}
+
+.u-section-1 .u-image-17 {
+  width: 202px;
+  height: 391px;
+  margin: -419px 105px 0 auto;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Chakra Petch";
+  margin: 271px auto 0 190px;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: "Chakra Petch";
+  margin: -79px auto 0 333px;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: "Chakra Petch";
+  margin: -79px auto 0 477px;
+}
+
+.u-section-1 .u-text-4 {
+  font-family: "Chakra Petch";
+  margin: -79px 467px 0 auto;
+}
+
+.u-section-1 .u-text-5 {
+  font-family: "Chakra Petch";
+  margin: -79px 322px 0 auto;
+}
+
+.u-section-1 .u-text-6 {
+  font-family: "Chakra Petch";
+  margin: -79px 177px -352px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 895px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 33px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: 53px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-left: 177px;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-left: 197px;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-left: 327px;
+  }
+
+  .u-section-1 .u-image-6 {
+    margin-left: 347px;
+  }
+
+  .u-section-1 .u-image-7 {
+    margin-left: 482px;
+  }
+
+  .u-section-1 .u-image-8 {
+    margin-left: 502px;
+  }
+
+  .u-section-1 .u-image-9 {
+    margin-left: 628px;
+  }
+
+  .u-section-1 .u-image-10 {
+    margin-left: 648px;
+  }
+
+  .u-section-1 .u-image-11 {
+    margin-left: 632px;
+  }
+
+  .u-section-1 .u-image-12 {
+    margin-left: 675px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 275px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 393px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 385px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 265px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-7 {
+    margin-left: 412px;
+  }
+
+  .u-section-1 .u-image-8 {
+    margin-left: 455px;
+  }
+
+  .u-section-1 .u-image-9 {
+    margin-left: 412px;
+  }
+
+  .u-section-1 .u-image-10 {
+    margin-left: 455px;
+  }
+
+  .u-section-1 .u-image-11 {
+    margin-left: 412px;
+  }
+
+  .u-section-1 .u-image-12 {
+    margin-left: 455px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 211px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 301px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 295px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 203px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-5 {
+    margin-left: 232px;
+  }
+
+  .u-section-1 .u-image-6 {
+    margin-left: 275px;
+  }
+
+  .u-section-1 .u-image-7 {
+    margin-left: 232px;
+  }
+
+  .u-section-1 .u-image-8 {
+    margin-left: 275px;
+  }
+
+  .u-section-1 .u-image-9 {
+    margin-left: 232px;
+  }
+
+  .u-section-1 .u-image-10 {
+    margin-left: 275px;
+  }
+
+  .u-section-1 .u-image-11 {
+    margin-left: 232px;
+  }
+
+  .u-section-1 .u-image-12 {
+    margin-left: 275px;
+  }
+
+  .u-section-1 .u-image-15 {
+    margin-right: 338px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 143px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 158px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 226px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 221px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 152px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    margin-left: 32px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-left: 32px;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-left: 75px;
+  }
+
+  .u-section-1 .u-image-5 {
+    margin-left: 32px;
+  }
+
+  .u-section-1 .u-image-6 {
+    margin-left: 75px;
+  }
+
+  .u-section-1 .u-image-7 {
+    margin-left: 32px;
+  }
+
+  .u-section-1 .u-image-8 {
+    margin-left: 75px;
+  }
+
+  .u-section-1 .u-image-9 {
+    margin-left: 32px;
+  }
+
+  .u-section-1 .u-image-10 {
+    margin-left: 75px;
+  }
+
+  .u-section-1 .u-image-11 {
+    margin-left: 32px;
+  }
+
+  .u-section-1 .u-image-12 {
+    margin-left: 75px;
+  }
+
+  .u-section-1 .u-image-13 {
+    margin-left: 138px;
+  }
+
+  .u-section-1 .u-image-15 {
+    margin-right: 138px;
+  }
+
+  .u-section-1 .u-image-16 {
+    margin-right: 138px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 90px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 99px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 142px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 139px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 96px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 111px;
+  }
+}
