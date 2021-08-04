@@ -16,11 +16,11 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 80px;
+  min-height: 90px;
 }
 
 .u-section-2 .u-text-1 {
   font-weight: 400;
-  animation-duration: 1000ms;
-  margin: 1px auto;
+  animation-duration: 3000ms;
+  margin: 1px auto 10px;
 }

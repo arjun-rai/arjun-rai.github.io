@@ -4,7 +4,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 500px;
+  min-height: 690px;
 }
 
 .u-section-1 .u-btn-1 {
@@ -17,24 +17,24 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 412px;
+    min-height: 569px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 316px;
+    min-height: 436px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 237px;
+    min-height: 327px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 149px;
+    min-height: 206px;
   }
 }
