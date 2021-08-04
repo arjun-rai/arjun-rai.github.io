@@ -123,4 +123,9 @@
   .u-section-1 .u-text-4 {
     margin-left: 133px;
   }
+}@font-face {
+  font-family: 'rune';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/rune.ttf);
 }
